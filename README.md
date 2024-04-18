@@ -67,7 +67,7 @@ A [Gojek clone script](https://sangvish.com/gojek-clone/) from Sangvish is the r
 
 By leveraging the power of a Gojek clone script, you can transform your vision for a multi-service platform into a thriving reality.
 
-Explore our website and revolutionize your business with Gojek Clone.- https://sangvish.com/gojek-clone/
+CLick to see our **LIVE DEMO** and revolutionize your business with Gojek Clone.- https://sangvish.com/gojek-clone/
 
 **Contact us,**
 
