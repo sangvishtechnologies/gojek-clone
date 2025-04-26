@@ -62,6 +62,95 @@ Build your feature-rich on demand multi service app quickly and effortlessly wit
 
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“gojekclone.png" src="https://github.com/sangvishtechnologies/gojek-clone/blob/main/images/gojek-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
+## Services You Can Offer with the Sangvish Gojek Clone Script
+
+The Sangvish [Gojek Clone Script](https://sangvish.com/gojek-clone/) is designed to support a wide range of business models. You can offer multiple services from a single platform, including:
+
+* **Rental Service**
+
+Launch a rental business for cars, bikes, equipment, or properties—all managed seamlessly within the app.
+
+* **Cab Service**
+
+Provide taxi booking and ride-hailing services with real-time tracking and driver management.
+
+* **Parcel Service**
+
+Enable users to send and receive parcels locally or regionally with secure, trackable delivery options.
+
+* **On-Demand Service**
+
+Offer services like plumbing, cleaning, salon at home, laundry, and more—users can book with ease anytime.
+
+* **Multivendor Service**
+
+Allow various vendors to list their services or products and manage them independently on your platform.
+
+* **eCommerce Script**
+
+Run a full-fledged online shopping experience by integrating eCommerce features for physical and digital products.
+
+### Key Features of Our Gojek Clone App
+
+Our Gojek Clone App is packed with powerful features to help you build a scalable, user-friendly, and revenue-generating multi-service platform.
+
+* **Push Notifications**
+
+Keep your users engaged and informed with real-time push notifications. Instantly notify them about service updates, order status, promotional offers, and more—right on their mobile screens.
+
+* **Real-Time Tracking**
+
+Let your users track their orders, rides, or service providers in real time using Google Maps, Waze, or other GPS options. It ensures transparency and builds trust with both users and providers.
+
+* **Multi-Language & RTL Support**
+
+Expand globally with support for multiple languages and right-to-left (RTL) scripts like Arabic and Hebrew. Offer a native experience to users from different regions.
+
+* **Multiple Payment Options**
+
+Offer flexibility at checkout with various payment modes—credit/debit cards, digital wallets, UPI, and other local gateways—ensuring smoother transactions and customer satisfaction.
+
+* **Real-Time Chat & Call**
+
+Built-in communication tools allow users and service providers to chat or call in real-time. This feature helps in resolving queries and coordinating services efficiently.
+
+* **Login & Registration**
+
+Simple and secure login/registration via email, mobile number, or social accounts. Provide easy onboarding while maintaining platform security.
+
+* **Geolocation Integration**
+
+The app’s integrated GPS functionality allows precise location tracking, enhancing the accuracy of deliveries, service requests, and pickups.
+
+* **Dynamic Module Control**
+
+Enable or disable any module (cab, delivery, rental, etc.) instantly from the admin panel. Customize your super app to align with your business strategy.
+
+* **Wallet & Loyalty Rewards**
+
+Encourage repeat business with a built-in digital wallet and loyalty program. Users can store money, earn rewards, and redeem them within the app.
+
+* **Smart Reporting & Analytics**
+
+Access detailed analytics on earnings, user activity, orders, traffic, and more. Make smarter business decisions based on real-time data and trends.
+
+* **Advanced Promotion Tools**
+
+Boost user engagement by offering coupon codes, referral discounts, and time-based promotions. Manage all your campaigns easily through the backend.
+
+* **QR Code Generator & Scanner**
+
+Speed up processes with integrated QR code features. Whether it’s user check-in, payment, or vendor access, QR codes simplify and secure the experience.
+
+* **Thermal Printer Support**
+
+Compatible with thermal printers, allowing vendors to generate receipts instantly, enhancing the professionalism and efficiency of their service.
+
+* **User Onboarding Walkthrough**
+
+Welcome new users with a guided onboarding tour. Highlight key features and improve user retention with a smooth, intuitive introduction to your app.
+
+
 ### Ready to Launch Your On-demand Empire?
 A [Gojek clone script](https://sangvish.com/gojek-clone/) from Sangvish is the right launchpad for your multi-service business dream. It provides a cost-effective, feature-rich solution that gets you up and running quickly. With a user-friendly app and a diverse service portfolio, you can capture a significant share of the on-demand market and provide unparalleled convenience to your customers.
 
